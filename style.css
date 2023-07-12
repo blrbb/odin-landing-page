@@ -156,6 +156,7 @@ button {
     gap:0;
     margin-right:100px ;
     align-items: left;
+    text-align: left;
 }
 
 .cta .main {
